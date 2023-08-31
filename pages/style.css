@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#main-heading {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+#main-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+
+#about-me {
+    text-align: center;
+    margin: 20px auto;
+    font-size: 18px;
+    width: 80%;
+}
+
+
+a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #002fff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+
+a:hover {
+    background-color: #ff0000;
+}
